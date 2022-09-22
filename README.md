@@ -3,8 +3,8 @@
 ###### until you can hire seniors any more, use the remaining salary to hire the Juniors with also the smallest salary.
 
 #### write a sql to find out 
-Tickets Table :
-| emp_id      | experirnce   | salary
+candidates Table :
+| emp_id      | experience   | salary
 | -------------  | ------------- | -------- |
 |1	|Junior	|10000
 |2	|Junior	|15000
